@@ -1,1 +1,2 @@
-# GreenHatProject
+# Green Hat Solutions 
+
